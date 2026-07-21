@@ -146,3 +146,24 @@ padding:20px;
 }
 
 }
+.btn{
+display:inline-block;
+background:#ffd700;
+color:#0b6b3a;
+padding:12px 24px;
+margin:10px;
+text-decoration:none;
+font-weight:bold;
+border-radius:6px;
+transition:.3s;
+}
+
+.btn:hover{
+background:white;
+color:#0b6b3a;
+}
+
+.hero{
+text-align:center;
+padding:80px 20px;
+}
